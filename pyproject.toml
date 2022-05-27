@@ -13,6 +13,8 @@ optuna = "^2.10.0"
 catboost = "^1.0.6"
 seaborn = "^0.11.2"
 jupyterlab = "^3.4.2"
+shap = "^0.40.0"
+imbalanced-learn = "^0.9.1"
 
 [tool.poetry.dev-dependencies]
 
